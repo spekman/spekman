@@ -22,13 +22,13 @@
           <br>
       <br>
     💼 BSc • Front-end dev • Software Engineer <br>
-    📖 QA • UX Design • Machine Learning • Game Dev <br>
-    🎮 Music • Games • Graphic Design • Code • Art <br>
+    📖 QA • Mobile Dev • UX Design • Game Dev <br>
+    🎮 Music • Games • Code • Art • Graphic Design <br>
           <br>
       langs && frameworks:
           <img src="https://blob.gifcities.org/gifcities/3PQKAUB6ELTN7LBGY2LS3KIMZYOF2CM6.gif">
           <br>
-          > javascript, python, java, sql, react, node.
+          > java, javascript, node, react, react native, sql, typescript.
       <br>
       <br>
      <br>
