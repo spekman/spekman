@@ -1,13 +1,25 @@
 
 <img src="img/rainbow.gif" width="100%">
-<img src="img/tiger.gif" width="380" align="left">
-<img src="img/dog.gif"align="left"><img src="img/pikachu.gif"align="left"><img src="img/moogle.gif"align="left"><img src="img/tails.gif"align="left"><img src="img/haku.gif"align="left"><img src="img/mc.gif"align="left">
-<img src="img/ayu.gif"align="left"><img src="img/furret.gif"align="left"><img src="img/cat.gif"align="left">
-<img src="img/rabbit.gif"align="left"><img src="img/azu.gif"align="left">
-<br>
-<img src="img/br.gif" align="left"> 
-<img src="img/rd.gif"align="left"> 
-<img src="img/tt.gif"align="left"> <img src="img/sh.gif"align="left">
+<img src="img/tiger.gif" width="40%" align="left">
+<img src="img/dog.gif"align="left"width="10%">
+<img src="img/pikachu.gif"align="left"width="7%">
+<img src="img/moogle.gif"align="left"width="6%">
+<img src="img/tails.gif"align="left"width="12%">
+<img src="img/haku.gif"align="left"width="9%">
+<img src="img/mc.gif"align="left"width="15%">
+
+<img src="img/ayu.gif" align="left" width="24%">
+<img src="img/cat.gif"align="left" width="24%">
+<img src="img/furret.gif"align="left" width="11%">
+
+
+<img src="img/rabbit.gif" align="left" width="25%">
+<img src="img/azu.gif" align="left" width="33%">
+
+<img src="img/br.gif" align="left" width="21%"> 
+<img src="img/rd.gif"align="left" width="12%"> 
+<img src="img/tt.gif"align="left" width="25%"> 
+<img src="img/sh.gif"align="left" width="40%">
 
 <img src="img/fun.gif" width="100%">
 
